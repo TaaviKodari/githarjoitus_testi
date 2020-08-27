@@ -1,3 +1,4 @@
 Moi,
 
 tästä lähtee tarina. Jatkan tätä toisella koneella.
+Hei tarina jatkuu nyt toisesta sijainnista. 
