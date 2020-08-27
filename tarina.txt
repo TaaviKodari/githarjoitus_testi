@@ -3,3 +3,4 @@ Moi,
 tästä lähtee tarina. Jatkan tätä toisella koneella.
 Hei tarina jatkuu nyt toisesta sijainnista. 
 Hei, tarina jatkuu nyt ensimmäiseltä koneelta.
+Voisko tää tarina jo alkaa. Terveisin toinen lokaatio.
